@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 24
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -169,9 +169,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 481
-        width: 31
-        height: 42
+        y: 496
+        width: 16
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,9 +190,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 480
-        width: 31
-        height: 39
+        y: 496
+        width: 16
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3848,7 +3848,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3856,6 +3856,111 @@ TextureImporter:
       bones: []
       spriteID: 32a620b95ee31e04d9547f732a9e44e8
       internalID: 775673689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 496
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97c7d2c3263b1488f9063d0e495934
+      internalID: -1825131813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 480
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750d937445256e40adf588b8afc35fe
+      internalID: -1144957330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f3c8cd8190e034bad750a60b5e75d0
+      internalID: 2071867799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 481
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922198418d080d049800b3c82aae2c2e
+      internalID: -1486840382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 481
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064c04ed6e7bb24ea40d320a45ae8d5
+      internalID: 217483551
       vertices: []
       indices: 
       edges: []
@@ -3871,6 +3976,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      christmas_sprites_0: -1825131813
+      christmas_sprites_1: -1144957330
+      christmas_sprites_2: 2071867799
+      christmas_sprites_3: -1486840382
+      christmas_sprites_4: 217483551
       winter_global_shadow_0: -1603051632
       winter_global_shadow_1: -2145500300
       winter_global_shadow_10: -406519056
