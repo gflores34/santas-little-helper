@@ -6,6 +6,12 @@ TagManager:
   tags:
   - tree
   - snowball
+  - heart
+  - candy cane
+  - gift
+  - sphere
+  - ornament
+  - snowman
   layers:
   - Default
   - TransparentFX
@@ -13,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Terrain
   - 
   - 
   - 
